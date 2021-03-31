@@ -4,3 +4,5 @@ com/mylinkedlisttest/MyLinkedListTest.java
  com.mylinkedlisttest.MyLinkedListTest
 com/mystacktest/MyStackTest.java
  com.mystacktest.MyStackTest
+com/mylinkedhashmaptest/MyLinkedHashMapTest.java
+ com.mylinkedhashmaptest.MyLinkedHashMapTest

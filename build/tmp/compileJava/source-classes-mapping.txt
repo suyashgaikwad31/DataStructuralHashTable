@@ -1,7 +1,7 @@
 MyLinkedList/MyLinkedList.java
  MyLinkedList.MyLinkedList
-MyNode/MyNode.java
- MyNode.MyNode
+com/mylinkedhashmaptest/MyLinkedHashMap.java
+ com.mylinkedhashmaptest.MyLinkedHashMap
 com/mystacktest/MyStack.java
  com.mystacktest.MyStack
 MyNode/INode.java
@@ -12,3 +12,5 @@ com/myhashmaptest/MyHashMap.java
  com.myhashmaptest.MyHashMap
 com/myhashmaptest/MyHashMapTest.java
  com.myhashmaptest.MyHashMapTest
+MyNode/MyNode.java
+ MyNode.MyNode
